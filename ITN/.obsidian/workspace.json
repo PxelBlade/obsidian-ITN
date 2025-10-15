@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,14 +192,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1e9fe32e6344909d",
+  "active": "745c0c295012fda5",
   "lastOpenFiles": [
+    "Motherboard Project/History.md",
+    "Excalidraw/Excalidraw.md",
+    "Motherboard Project/Specs.md",
+    "Motherboard Project/Motherboard Diagram.md",
     "Motherboard Project/Motherboard Project.md",
     "Tags/Tags.md",
     "Motherboard Project/Components.md",
-    "Motherboard Project/History.md",
-    "Motherboard Project/Specs.md",
-    "Motherboard Project/Motherboard Diagram.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.svg",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance.md",
     "Excalidraw/Scripts/Downloaded/Fixed vertical distance between centers.svg",
@@ -235,7 +237,6 @@
     "Ports/Ports.md",
     "Networks & Internet/Websites.md",
     "Networks & Internet/Email Addresses.md",
-    "Networks & Internet/Accessing the Internet.md",
     "ITN",
     "Motherboard Project",
     "Tags"
