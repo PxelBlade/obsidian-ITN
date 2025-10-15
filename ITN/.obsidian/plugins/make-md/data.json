@@ -41,7 +41,8 @@
     "//ITN",
     "//Tags",
     "//Storage",
-    "/"
+    "/",
+    "//Motherboard Project"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
