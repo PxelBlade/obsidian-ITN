@@ -39,10 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//ITN",
-    "//Tags",
     "//Storage",
     "/",
-    "//Motherboard Project"
+    "//Tags"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
