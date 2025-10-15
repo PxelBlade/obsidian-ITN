@@ -11,12 +11,12 @@
             "id": "745c0c295012fda5",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "excalidraw",
               "state": {
-                "path": "Tags"
+                "file": "Motherboard Project/Motherboard Diagram.md"
               },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "icon": "excalidraw-icon",
+              "title": "Motherboard Diagram"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "2a9acf27b9dbc25b",
+            "id": "1e9fe32e6344909d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +191,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a9acf27b9dbc25b",
+  "active": "1e9fe32e6344909d",
   "lastOpenFiles": [
-    "Tags/Tags.md",
     "Motherboard Project/Motherboard Project.md",
+    "Tags/Tags.md",
     "Motherboard Project/Components.md",
     "Motherboard Project/History.md",
     "Motherboard Project/Specs.md",
