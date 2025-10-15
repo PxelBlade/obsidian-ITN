@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,7 +191,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "745c0c295012fda5",
+  "active": "1e9fe32e6344909d",
   "lastOpenFiles": [
     "Motherboard Project/History.md",
     "Excalidraw/Excalidraw.md",
