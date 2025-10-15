@@ -9,4 +9,4 @@ sticker: lucide//arrow-big-up
 ## Troubleshooting Tips
 - If a device in the front fails, plug it in the back.
 - 80% of all problems can be fixed with a reboot (did you turn it off and on again?)
-- Always tag out a device youre working on
+- Always tag out a device you're working on
