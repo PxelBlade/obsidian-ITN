@@ -1,0 +1,24 @@
+---
+sticker: lucide//whole-word
+---
+- **Network:** A collection of connected devices that share resources and communicate with each other.
+- **LAN (Local Area Network):** Usually in a smaller office or similar organization. Connects a small number of computers to a router.
+- **WAN (Wide Area Network):** LANs connect to each other to create a larger network, or a WAN.
+- **MAN (Metropolitan Area Network):**  A collection of WANs made to connect WANs to each other to create a city-wide network.
+- **ISP (Internet Service Provider):** A company that provides internet services to people, also defined as a bunch of smaller networks connecting to larger networks.
+- **URL (Uniform Resource Locator):** Identifies a unique web page, and precedes the domain name/IP
+- **HTTP(S) (Hypertext Transfer Protocol (Secure)):** The default URL for many webpages like Google or Microsoft
+- **FTP (File Transfer Protocol):** A URL used to transfer files over a network, such as sending HTML files from your computer to a web server
+- **HTML (Hypertext Markup Language):** Used as the backbone of all modern-day websites, helps tie together CSS style sheets and JavaScript codes
+- **[[USB]] (Universal Serial Bus):** Created to unify the process of buying connectors for various devices in retaliation for Apple's obscene amount of exclusive ports, although Apple didn't follow suit until recently. There are also multiple types of USB:
+	- **USB A:** The chonky rectangle on the back of every PC nowadays. The color of the port USUALLY corresponds with the version of USB. For example, white is USUALLY USB1, black is USUALLY USB2, and blue is USUALLY USB3. There are also red and teal variants, with red corresponding with USB 3.2 and teal corresponding with USB 3.1 gen 1 SuperSpeed+.
+	- **USB B:** The trapezoid-shaped plug phones used to use (I.e. Galaxy S6)
+	- **USB C:** The modern-day oval plug on everything, supports audio and video as well as data transfers. The true universal plug. Also the model that the new USB4 technology uses.
+- **[[Accessing the Internet|The internet]]:** A worldwide network built from LANs, WANs, and MANs.
+- **[[Email Addresses|Email Address]]:** Basically your virtual mailbox. 
+- **LTP (Local Print Terminal):** Another term for a parallel port
+- **SD (Secure Digital):** A form of storage used usually in the micro format found in phone expansions or cameras.
+- **System Unit:** The core components of any working computer, including the motherboard, CPU, and RAM.
+- **Hotswap:** The ability to unplug and plug in another device without restarting the computer.
+- **SATA (Serial Advanced Technology Attachment):** Used to connect internal HDDs or SSDs to the motherboard. There are 2 variants of SATA, the power version and the data version.
+- **APS (Active Phase Switching):** A system put into more recent motherboards, such as [[Specs|mine]], allowing more control over the cores of the CPU, allowing the motherboard to dynamically turn them off and on as needed.

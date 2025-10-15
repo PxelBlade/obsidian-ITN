@@ -1,0 +1,34 @@
+---
+sticker: lucide//waves
+---
+**NAME**: 760GM-E51 (FX)
+**SOCKET**: AM3+
+**BASE CLOCK**: up to 2.6GHz
+**CHIPSET:** AMD 760G+SB710
+**DDR3 MEMORY:** DDR3 800/1066/1333
+**MEM CHANNEL:** Dual
+**DIMM SLOTS:** 4
+**MAX MEMORY (GB):** 32
+**PCI-E x16:** 1
+**PCI-E GEN:** Gen2 (1x16)
+**PCI-E x1:** 1
+**PCI:** 2
+**IDE:** 1
+**SATAII:** 5
+**RAID:** 0/1/0+1/JBOD
+**TPM HEADER:** 1
+**USB 2.0 PORTS:** 6
+**AUDIO PORTS:** 6
+**eSATA:** 1
+**VGA:** 1
+**HDMI:** 1
+**DVI:** 1
+**VGA MAX SHARE MEM:** 512
+**DIRECTX:** DX10
+**APS:** Yes
+**HYBRID CROSSFIRE:** Yes
+**FORM FACTOR:** M-ATX
+**LAN CONTROLLER:** Realtek RTL8111D(L)
+**CLEAR CMOS BUTTON:** Yes
+**DIMENSIONS:** 244mm x 244mm
+**COMPATIBLE CPUS:** AMD Phenom FX, AMD Phenom II X2, AMD Phenom II X3, AMD Phenom II X4, AMD Phenom II X6
