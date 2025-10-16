@@ -1,10 +1,10 @@
 [
-  "make-md",
-  "tag-wrangler",
-  "obsidian-outliner",
-  "obsidian-icon-folder",
   "obsidian-git",
+  "make-md",
+  "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
+  "obsidian-outliner",
   "omnisearch",
+  "tag-wrangler",
   "text-extractor"
 ]
