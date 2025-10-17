@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks & Internet/Accessing the Internet.md",
+                "file": "Networks & Internet/Email Addresses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accessing the Internet"
+              "title": "Email Addresses"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "745c0c295012fda5",
   "lastOpenFiles": [
+    "Networks & Internet/Accessing the Internet.md",
     "Networks & Internet/Networks & Internet.md",
     "Motherboard Project/Motherboard Diagram.md",
     "Motherboard Project/Components.md",
@@ -237,7 +238,6 @@
     "PLUGINS.md",
     "Ports/Ethernet.md",
     "Ports/Ports.md",
-    "Networks & Internet/Websites.md",
     "ITN",
     "Motherboard Project",
     "Tags"
