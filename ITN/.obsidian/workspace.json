@@ -11,10 +11,12 @@
             "id": "66150de55e9b1fd3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Motherboard Project/Motherboard Diagram.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Motherboard Diagram"
             }
           }
         ]
@@ -189,15 +191,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8fdec8193541512",
+  "active": "66150de55e9b1fd3",
   "lastOpenFiles": [
+    "Motherboard Project/Components.md",
     "Motherboard Project/Motherboard Diagram.md",
     "Networks & Internet/Accessing the Internet.md",
     "Networks & Internet/Email Addresses.md",
     "Networks & Internet/Websites.md",
     "Ports/Ports.md",
     "Networks & Internet/Networks & Internet.md",
-    "Motherboard Project/Components.md",
     "Motherboard Project/History.md",
     "Motherboard Project/Specs.md",
     "Motherboard Project/Motherboard Project.md",
