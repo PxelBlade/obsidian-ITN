@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0f30f41538d5b590",
+        "id": "6397dac0ef4a9799",
         "type": "tabs",
         "children": [
           {
-            "id": "745c0c295012fda5",
+            "id": "66150de55e9b1fd3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Motherboard Project/Motherboard Diagram.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Motherboard Diagram"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "4eaf7dbbb0febbdf",
+            "id": "ee52a20f7b0cd22a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -191,7 +189,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "745c0c295012fda5",
+  "active": "b8fdec8193541512",
   "lastOpenFiles": [
     "Motherboard Project/Motherboard Diagram.md",
     "Networks & Internet/Accessing the Internet.md",

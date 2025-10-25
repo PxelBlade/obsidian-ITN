@@ -85,8 +85,8 @@
   "selectedKit": "default",
   "actionMaxSteps": 100,
   "contextPagination": 25,
-  "skipFolderNames": [],
   "skipFolders": [],
+  "skipFolderNames": [],
   "enhancedLogs": false,
   "basics": true,
   "basicsSettings": {
